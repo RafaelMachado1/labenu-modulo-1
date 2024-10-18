@@ -1,0 +1,35 @@
+header {
+    height:70px;
+    padding: 10px;
+    background-color: orange;
+    color: white;
+    border-bottom: 1px solid black;
+    font-family: Arial;
+    
+}
+
+.destaque {
+    color: orange;
+}
+
+main {
+    margin: 15px;
+    padding: 20px, 30px;
+    width: 90vw;
+    height: 80vh;
+    font-family: Helvetica;
+
+}
+
+article {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+footer {
+    height: 40px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+}

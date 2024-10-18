@@ -1,0 +1,34 @@
+.bloco { /*Seletor class*/
+    
+    color: white ;
+    margin: 5px;
+    width: 300px ;
+    line-height: 10%  ;
+    text-align:center;
+    font-size: 15px;
+
+ }
+
+ #bloco-1{ /*seletor id*/
+    background-color: rgb(246, 182, 20);
+    border: 3px solid rgb(195, 137, 11);
+ }
+
+ #bloco-2{ /*seletor id*/
+    background-color: rgb(20, 246, 65);
+    border: 3px solid rgb(11, 195, 42);
+ }
+
+ #bloco-3{ /*seletor id*/
+    background-color: rgb(26, 75, 1);
+    border: 3px dashed rgb(167, 253, 148);
+ }
+
+ #bloco-4{ /*seletor id*/
+    background-color: rgb(246, 20, 20);
+    border: 3px dashed rgb(254, 57, 57);
+ }
+
+ main{ /*seletor tags*/
+    font-family: Arial, Helvetica, sans-serif;
+ }

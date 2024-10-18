@@ -1,0 +1,19 @@
+header {
+    background-color: blue;
+}
+
+#titulo-importante, h3, h4 {
+    color: white;
+}
+
+h2 {
+    background-color: yellow;
+}
+
+section {
+    background-color: green;
+}
+
+footer {
+    background-color: black;
+}
