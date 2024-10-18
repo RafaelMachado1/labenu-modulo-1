@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 25vh);
+}
+
+section {
+    border: 1px solid black;
+}
+
+@media screen and (max-device-width: 480px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    section {
+        color: red;
+        text-align: center;
+    }
+}
+
